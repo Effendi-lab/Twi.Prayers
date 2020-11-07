@@ -1,7 +1,7 @@
 # Twi prayers for Bahá'ís in Ghana
 
 
-![alt tag](https://user-images.githubusercontent.com/63195268/98437194-a8c8ec80-2073-11eb-955a-71bddf92320e.jpg)
+![alt tag|](https://user-images.githubusercontent.com/63195268/98437194-a8c8ec80-2073-11eb-955a-71bddf92320e.jpg)
 
 
 ![alt tag](https://user-images.githubusercontent.com/63195268/98437196-ac5c7380-2073-11eb-8fe2-3139dd772b26.jpg)
@@ -17,6 +17,8 @@
 
 
 ![alt tag](https://user-images.githubusercontent.com/63195268/98437205-baaa8f80-2073-11eb-9a03-c1c39edda570.jpg)
+
+
 
 
 
